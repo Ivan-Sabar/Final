@@ -1,0 +1,36 @@
+      *{box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+    body{
+      background-color: rgb(41, 18, 84);
+    }
+    h3{
+      text-align: center;
+      color: rgb(23, 192, 192);
+    }
+      div{border: 5px solid rgb(218, 195, 126); background-color: blanchedalmond;
+      
+    }
+
+    ul{
+      text-align: right;
+    }
+
+    li{
+      background-color: blanchedalmond;
+      display: inline-block;
+      border: 2px solid rgb(218, 195, 126);
+      height: 20px;
+      font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+
+    a{
+      color: rgb(140, 13, 13);
+      text-decoration: none;
+    }
+
+    p{
+      text-align: left; font-size: 20px;
+      font-family: 'Times New Roman', Times, serif;
+    }
