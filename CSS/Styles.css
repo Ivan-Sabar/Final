@@ -9,7 +9,7 @@
       text-align: center;
       color: rgb(23, 192, 192);
     }
-      div{border: 5px solid rgb(218, 195, 126); background-color: blanchedalmond;
+      div{border: 5px solid rgb(218, 195, 126); background-color: blanchedalmond; height: 500px;
       
     }
 
@@ -18,19 +18,20 @@
     }
 
     li{
-      background-color: blanchedalmond;
       display: inline-block;
-      border: 2px solid rgb(218, 195, 126);
-      height: 20px;
       font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-size: 20px;
     }
 
     a{
+      background-color: blanchedalmond;
       color: rgb(140, 13, 13);
-      text-decoration: none;
+      text-align: center;
+      border: 2px solid rgb(218, 195, 126);
+      height: 30px;
+      width: 60px;
     }
 
     p{
       text-align: left; font-size: 20px;
-      font-family: 'Times New Roman', Times, serif;
     }
